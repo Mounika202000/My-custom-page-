@@ -1,1 +1,10 @@
-
+<!DOCTYPE html>
+<html>
+<head>
+<title>Secondpage</title>
+</html>
+<body>
+<h1>this is my linked page</h1>
+<a Greg ="index.html">click to go back to first page </a>
+</body>
+</html>
